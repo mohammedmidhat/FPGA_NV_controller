@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/homes/mmahmood/Aaron/clock_divider_isim_beh.exe" -prj "/homes/mmahmood/Aaron/clock_divider_beh.prj" "work.clock_divider" "work.glbl" 

@@ -1,0 +1,2 @@
+verilog work "clk_div_gen.v"
+verilog work "Serializer.v"

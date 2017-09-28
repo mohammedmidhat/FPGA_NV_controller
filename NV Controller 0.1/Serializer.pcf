@@ -1,0 +1,21 @@
+//! **************************************************************************
+// Written by: Map P.68d on Sat Mar 04 03:40:16 2017
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "done_transmit" LOCATE = SITE "AJ32" LEVEL 1;
+COMP "clkn" LOCATE = SITE "E18" LEVEL 1;
+COMP "clkp" LOCATE = SITE "E19" LEVEL 1;
+COMP "start" LOCATE = SITE "AU38" LEVEL 1;
+COMP "data_in<0>" LOCATE = SITE "AV30" LEVEL 1;
+COMP "data_in<1>" LOCATE = SITE "AY33" LEVEL 1;
+COMP "data_in<2>" LOCATE = SITE "BA31" LEVEL 1;
+COMP "data_in<3>" LOCATE = SITE "BA32" LEVEL 1;
+COMP "data_in<4>" LOCATE = SITE "AW30" LEVEL 1;
+COMP "data_in<5>" LOCATE = SITE "AY30" LEVEL 1;
+COMP "reset" LOCATE = SITE "AW40" LEVEL 1;
+COMP "data_in<6>" LOCATE = SITE "BA30" LEVEL 1;
+COMP "serial_data_out" LOCATE = SITE "AU39" LEVEL 1;
+COMP "data_in<7>" LOCATE = SITE "BB31" LEVEL 1;
+SCHEMATIC END;
+

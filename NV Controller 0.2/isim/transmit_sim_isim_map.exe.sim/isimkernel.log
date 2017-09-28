@@ -1,0 +1,28 @@
+Command line:
+   transmit_sim_isim_map.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59677
+
+Tue Mar 28 12:29:10 2017
+
+
+ Elaboration Time: 0.19 sec
+
+ Current Memory Usage: 229.384 Meg
+
+ Total Signals          : 3964
+ Total Nets             : 2966
+ Total Signal Drivers   : 2969
+ Total Blocks           : 414
+ Total Primitive Blocks : 227
+ Total Processes        : 3800
+ Total Traceable Variables  : 1395
+ Total Scalar Nets and Variables : 39704
+
+ Total Simulation Time: 181.16 sec
+
+ Current Memory Usage: 308.04 Meg
+
+Tue Mar 28 12:32:18 2017
+

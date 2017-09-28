@@ -1,0 +1,2 @@
+verilog work "netgen/par/Serializer_timesim.v"
+verilog work "serializer_sim.v"

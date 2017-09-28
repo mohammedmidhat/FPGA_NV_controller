@@ -1,0 +1,2 @@
+verilog work "netgen/map/transmit_map.v"
+verilog work "transmit_sim.v"

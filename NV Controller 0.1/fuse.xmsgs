@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="31" delta="unknown" >"/homes/mmahmood/Aaron/transmit.v" Line 160: &lt;<arg fmt="%s" index="1">transmission</arg>&gt; is already declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="31" delta="unknown" >"/homes/mmahmood/Aaron/transmit.v" Line 174: &lt;<arg fmt="%s" index="1">termination</arg>&gt; is already declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"/homes/mmahmood/Aaron/transmit.v" Line 185: Syntax error near &quot;<arg fmt="%s" index="1">endcase</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"/homes/mmahmood/Aaron/transmit.v" Line 190: Syntax error near &quot;<arg fmt="%s" index="1">endmodule</arg>&quot;.
+</msg>
+
+</messages>
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "simprims_ver" -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/homes/mmahmood/Aaron/transmit_sim_isim_map.exe" -prj "/homes/mmahmood/Aaron/transmit_sim_map.prj" "work.transmit_sim" "work.glbl" 

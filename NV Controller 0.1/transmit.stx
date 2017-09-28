@@ -1,0 +1,68 @@
+Release 14.6 - xst P.68d (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /homes/mmahmood/Aaron/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> 
+Parameter xsthdpdir set to /homes/mmahmood/Aaron/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> 
+Reading design: transmit.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "/homes/mmahmood/Aaron/timer.v" into library work
+Parsing module <timer>.
+Analyzing Verilog file "/homes/mmahmood/Aaron/Serializer.v" into library work
+Parsing module <Serializer>.
+Analyzing Verilog file "/homes/mmahmood/Aaron/counter.v" into library work
+Parsing module <counter>.
+Analyzing Verilog file "/homes/mmahmood/Aaron/clk_div_gen.v" into library work
+Parsing module <clock_divider>.
+Analyzing Verilog file "/homes/mmahmood/Aaron/transmit.v" into library work
+Parsing module <transmit>.
+ERROR:HDLCompiler:31 - "/homes/mmahmood/Aaron/transmit.v" Line 160: <transmission> is already declared.
+ERROR:HDLCompiler:31 - "/homes/mmahmood/Aaron/transmit.v" Line 174: <termination> is already declared.
+ERROR:HDLCompiler:806 - "/homes/mmahmood/Aaron/transmit.v" Line 185: Syntax error near "endcase".
+ERROR:HDLCompiler:806 - "/homes/mmahmood/Aaron/transmit.v" Line 190: Syntax error near "endmodule".
+Verilog file /homes/mmahmood/Aaron/transmit.v ignored due to errors
+--> 
+
+
+Total memory usage is 430316 kilobytes
+
+Number of errors   :    4 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

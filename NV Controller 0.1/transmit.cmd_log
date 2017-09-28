@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 

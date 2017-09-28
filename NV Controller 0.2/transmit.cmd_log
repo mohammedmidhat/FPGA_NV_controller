@@ -1,0 +1,26 @@
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc transmit.ucf -p xc7vx485t-ffg1761-2 transmit.ngc transmit.ngd  
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc transmit.ucf -p xc7vx485t-ffg1761-2 transmit.ngc transmit.ngd  
+map -intstyle ise -p xc7vx485t-ffg1761-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o transmit_map.ncd transmit.ngd transmit.pcf 
+par -w -intstyle ise -ol high -mt off transmit_map.ncd transmit.ncd transmit.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml transmit.twx transmit.ncd -o transmit.twr transmit.pcf -ucf transmit.ucf 
+bitgen -intstyle ise -f transmit.ut transmit.ncd 
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc transmit.ucf -p xc7vx485t-ffg1761-2 transmit.ngc transmit.ngd  
+map -intstyle ise -p xc7vx485t-ffg1761-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o transmit_map.ncd transmit.ngd transmit.pcf 
+netgen -intstyle ise -s 2  -pcf transmit.pcf -sdf_anno true -sdf_path "netgen/map" -insert_glbl true -w -dir netgen/map -ofmt verilog -sim transmit_map.ncd transmit_map.v 
+xst -intstyle ise -ifn "/homes/mmahmood/Aaron/transmit.xst" -ofn "/homes/mmahmood/Aaron/transmit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc transmit.ucf -p xc7vx485t-ffg1761-2 transmit.ngc transmit.ngd  
+map -intstyle ise -p xc7vx485t-ffg1761-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o transmit_map.ncd transmit.ngd transmit.pcf 
+par -w -intstyle ise -ol high -mt off transmit_map.ncd transmit.ncd transmit.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml transmit.twx transmit.ncd -o transmit.twr transmit.pcf -ucf transmit.ucf 
+bitgen -intstyle ise -f transmit.ut transmit.ncd 

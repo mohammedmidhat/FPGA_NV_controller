@@ -1,0 +1,20 @@
+Running: /fs/cad3/xilinx/14.6/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /homes/mmahmood/Aaron/clock_divider_isim_beh.exe -prj /homes/mmahmood/Aaron/clock_divider_beh.prj work.clock_divider work.glbl 
+ISim P.68d (signature 0xfbc00daa)
+Number of CPUs detected in this system: 48
+Turning on mult-threading, number of parallel sub-compilation jobs: 96 
+Determining compilation order of HDL files
+Analyzing Verilog file "/homes/mmahmood/Aaron/clk_div_gen.v" into library work
+Analyzing Verilog file "/fs/cad3/xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 93876 KB
+Fuse CPU Usage: 1040 ms
+Compiling module clock_divider
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 2 Verilog Units
+Built simulation executable /homes/mmahmood/Aaron/clock_divider_isim_beh.exe
+Fuse Memory Usage: 6419156 KB
+Fuse CPU Usage: 1110 ms
+GCC CPU Usage: 220 ms

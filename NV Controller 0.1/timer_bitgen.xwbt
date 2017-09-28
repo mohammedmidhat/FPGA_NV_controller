@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/homes/mmahmood/Aaron/timer.ncd
+OUTFILE=/homes/mmahmood/Aaron/timer.bit
+FAMILY=Virtex7
+PART=xc7vx485t-2ffg1761
+WORKINGDIR=/homes/mmahmood/Aaron
+LICENSE=ISE
+USER_INFO=175295688_1777495064_210645405_763

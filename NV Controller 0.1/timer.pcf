@@ -1,0 +1,11 @@
+//! **************************************************************************
+// Written by: Map P.68d on Fri Feb 10 19:18:31 2017
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clkn" LOCATE = SITE "E18" LEVEL 1;
+COMP "timeout_interrupt" LOCATE = SITE "AM39" LEVEL 1;
+COMP "clkp" LOCATE = SITE "E19" LEVEL 1;
+COMP "reset" LOCATE = SITE "AL34" LEVEL 1;
+SCHEMATIC END;
+

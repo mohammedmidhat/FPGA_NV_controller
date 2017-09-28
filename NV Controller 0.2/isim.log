@@ -1,0 +1,341 @@
+ISim log file
+Running: /homes/mmahmood/Aaron/transmit_sim_isim_map.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /homes/mmahmood/Aaron/transmit_sim_isim_map.wdb 
+ISim P.68d (signature 0xfbc00daa)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+INFO: SDF backannotation was successful with SDF file netgen/map/transmit_map.sdf, for root module /transmit_sim/uut/.
+Finished circuit initialization process.
+# run 10 ms
+WARNING: at 266001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:266001097 ps, CLK:266001131 ps,148 ps,34 ps)
+
+
+WARNING: at 270001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:270001097 ps, CLK:270001131 ps,148 ps,34 ps)
+
+
+WARNING: at 270001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:270001097 ps, CLK:270001131 ps,148 ps,34 ps)
+
+
+WARNING: at 274001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:274001097 ps, CLK:274001131 ps,148 ps,34 ps)
+
+
+WARNING: at 278001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:278001097 ps, CLK:278001131 ps,148 ps,34 ps)
+
+
+WARNING: at 278001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:278001097 ps, CLK:278001131 ps,148 ps,34 ps)
+
+
+WARNING: at 278001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:278001097 ps, CLK:278001131 ps,148 ps,34 ps)
+
+
+WARNING: at 282001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:282001097 ps, CLK:282001131 ps,148 ps,34 ps)
+
+
+WARNING: at 286001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:286001097 ps, CLK:286001131 ps,148 ps,34 ps)
+
+
+WARNING: at 286001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:286001097 ps, CLK:286001131 ps,148 ps,34 ps)
+
+
+WARNING: at 290001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:290001097 ps, CLK:290001131 ps,148 ps,34 ps)
+
+
+WARNING: at 294001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_3 /  $setuphold<setup>( CE:294001097 ps, CLK:294001131 ps,148 ps,34 ps)
+
+
+WARNING: at 294001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:294001097 ps, CLK:294001131 ps,148 ps,34 ps)
+
+
+WARNING: at 294001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:294001097 ps, CLK:294001131 ps,148 ps,34 ps)
+
+
+WARNING: at 294001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:294001097 ps, CLK:294001131 ps,148 ps,34 ps)
+
+
+WARNING: at 298001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:298001097 ps, CLK:298001131 ps,148 ps,34 ps)
+
+
+WARNING: at 302001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:302001097 ps, CLK:302001131 ps,148 ps,34 ps)
+
+
+WARNING: at 302001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:302001097 ps, CLK:302001131 ps,148 ps,34 ps)
+
+
+WARNING: at 306001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:306001097 ps, CLK:306001131 ps,148 ps,34 ps)
+
+
+WARNING: at 310001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:310001097 ps, CLK:310001131 ps,148 ps,34 ps)
+
+
+WARNING: at 310001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:310001097 ps, CLK:310001131 ps,148 ps,34 ps)
+
+
+WARNING: at 310001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:310001097 ps, CLK:310001131 ps,148 ps,34 ps)
+
+
+WARNING: at 314001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:314001097 ps, CLK:314001131 ps,148 ps,34 ps)
+
+
+WARNING: at 318001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:318001097 ps, CLK:318001131 ps,148 ps,34 ps)
+
+
+WARNING: at 318001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:318001097 ps, CLK:318001131 ps,148 ps,34 ps)
+
+
+WARNING: at 322001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:322001097 ps, CLK:322001131 ps,148 ps,34 ps)
+
+
+WARNING: at 326001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_3 /  $setuphold<setup>( CE:326001097 ps, CLK:326001131 ps,148 ps,34 ps)
+
+
+WARNING: at 326001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:326001097 ps, CLK:326001131 ps,148 ps,34 ps)
+
+
+WARNING: at 326001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:326001097 ps, CLK:326001131 ps,148 ps,34 ps)
+
+
+WARNING: at 326001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:326001097 ps, CLK:326001131 ps,148 ps,34 ps)
+
+
+WARNING: at 326001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_4 /  $setuphold<setup>( CE:326001097 ps, CLK:326001131 ps,148 ps,34 ps)
+
+
+WARNING: at 330001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:330001097 ps, CLK:330001131 ps,148 ps,34 ps)
+
+
+WARNING: at 334001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:334001097 ps, CLK:334001131 ps,148 ps,34 ps)
+
+
+WARNING: at 334001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:334001097 ps, CLK:334001131 ps,148 ps,34 ps)
+
+
+WARNING: at 338001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:338001097 ps, CLK:338001131 ps,148 ps,34 ps)
+
+
+WARNING: at 342001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:342001097 ps, CLK:342001131 ps,148 ps,34 ps)
+
+
+WARNING: at 342001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:342001097 ps, CLK:342001131 ps,148 ps,34 ps)
+
+
+WARNING: at 342001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:342001097 ps, CLK:342001131 ps,148 ps,34 ps)
+
+
+WARNING: at 346001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:346001097 ps, CLK:346001131 ps,148 ps,34 ps)
+
+
+WARNING: at 350001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:350001097 ps, CLK:350001131 ps,148 ps,34 ps)
+
+
+WARNING: at 350001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:350001097 ps, CLK:350001131 ps,148 ps,34 ps)
+
+
+WARNING: at 354001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:354001097 ps, CLK:354001131 ps,148 ps,34 ps)
+
+
+WARNING: at 358001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_3 /  $setuphold<setup>( CE:358001097 ps, CLK:358001131 ps,148 ps,34 ps)
+
+
+WARNING: at 358001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:358001097 ps, CLK:358001131 ps,148 ps,34 ps)
+
+
+WARNING: at 358001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:358001097 ps, CLK:358001131 ps,148 ps,34 ps)
+
+
+WARNING: at 358001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:358001097 ps, CLK:358001131 ps,148 ps,34 ps)
+
+
+WARNING: at 362001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:362001097 ps, CLK:362001131 ps,148 ps,34 ps)
+
+
+WARNING: at 366001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:366001097 ps, CLK:366001131 ps,148 ps,34 ps)
+
+
+WARNING: at 366001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:366001097 ps, CLK:366001131 ps,148 ps,34 ps)
+
+
+WARNING: at 370001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:370001097 ps, CLK:370001131 ps,148 ps,34 ps)
+
+
+WARNING: at 374001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:374001097 ps, CLK:374001131 ps,148 ps,34 ps)
+
+
+WARNING: at 374001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:374001097 ps, CLK:374001131 ps,148 ps,34 ps)
+
+
+WARNING: at 374001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:374001097 ps, CLK:374001131 ps,148 ps,34 ps)
+
+
+WARNING: at 378001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:378001097 ps, CLK:378001131 ps,148 ps,34 ps)
+
+
+WARNING: at 382001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:382001097 ps, CLK:382001131 ps,148 ps,34 ps)
+
+
+WARNING: at 382001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:382001097 ps, CLK:382001131 ps,148 ps,34 ps)
+
+
+WARNING: at 386001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:386001097 ps, CLK:386001131 ps,148 ps,34 ps)
+
+
+WARNING: at 390001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_3 /  $setuphold<setup>( CE:390001097 ps, CLK:390001131 ps,148 ps,34 ps)
+
+
+WARNING: at 390001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:390001097 ps, CLK:390001131 ps,148 ps,34 ps)
+
+
+WARNING: at 390001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:390001097 ps, CLK:390001131 ps,148 ps,34 ps)
+
+
+WARNING: at 390001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:390001097 ps, CLK:390001131 ps,148 ps,34 ps)
+
+
+WARNING: at 390001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_5 /  $setuphold<setup>( CE:390001097 ps, CLK:390001131 ps,148 ps,34 ps)
+
+
+WARNING: at 390001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_4 /  $setuphold<setup>( CE:390001097 ps, CLK:390001131 ps,148 ps,34 ps)
+
+
+WARNING: at 394001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:394001097 ps, CLK:394001131 ps,148 ps,34 ps)
+
+
+WARNING: at 398001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:398001097 ps, CLK:398001131 ps,148 ps,34 ps)
+
+
+WARNING: at 398001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:398001097 ps, CLK:398001131 ps,148 ps,34 ps)
+
+
+WARNING: at 402001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:402001097 ps, CLK:402001131 ps,148 ps,34 ps)
+
+
+WARNING: at 406001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:406001097 ps, CLK:406001131 ps,148 ps,34 ps)
+
+
+WARNING: at 406001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:406001097 ps, CLK:406001131 ps,148 ps,34 ps)
+
+
+WARNING: at 406001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:406001097 ps, CLK:406001131 ps,148 ps,34 ps)
+
+
+WARNING: at 410001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:410001097 ps, CLK:410001131 ps,148 ps,34 ps)
+
+
+WARNING: at 414001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:414001097 ps, CLK:414001131 ps,148 ps,34 ps)
+
+
+WARNING: at 414001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:414001097 ps, CLK:414001131 ps,148 ps,34 ps)
+
+
+WARNING: at 418001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:418001097 ps, CLK:418001131 ps,148 ps,34 ps)
+
+
+WARNING: at 422001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_3 /  $setuphold<setup>( CE:422001097 ps, CLK:422001131 ps,148 ps,34 ps)
+
+
+WARNING: at 422001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:422001097 ps, CLK:422001131 ps,148 ps,34 ps)
+
+
+WARNING: at 422001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:422001097 ps, CLK:422001131 ps,148 ps,34 ps)
+
+
+WARNING: at 422001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:422001097 ps, CLK:422001131 ps,148 ps,34 ps)
+
+
+WARNING: at 426001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:426001097 ps, CLK:426001131 ps,148 ps,34 ps)
+
+
+WARNING: at 430001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:430001097 ps, CLK:430001131 ps,148 ps,34 ps)
+
+
+WARNING: at 430001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:430001097 ps, CLK:430001131 ps,148 ps,34 ps)
+
+
+WARNING: at 434001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:434001097 ps, CLK:434001131 ps,148 ps,34 ps)
+
+
+WARNING: at 438001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:438001097 ps, CLK:438001131 ps,148 ps,34 ps)
+
+
+WARNING: at 438001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:438001097 ps, CLK:438001131 ps,148 ps,34 ps)
+
+
+WARNING: at 438001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:438001097 ps, CLK:438001131 ps,148 ps,34 ps)
+
+
+WARNING: at 442001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:442001097 ps, CLK:442001131 ps,148 ps,34 ps)
+
+
+WARNING: at 446001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:446001097 ps, CLK:446001131 ps,148 ps,34 ps)
+
+
+WARNING: at 446001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:446001097 ps, CLK:446001131 ps,148 ps,34 ps)
+
+
+WARNING: at 450001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:450001097 ps, CLK:450001131 ps,148 ps,34 ps)
+
+
+WARNING: at 454001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_3 /  $setuphold<setup>( CE:454001097 ps, CLK:454001131 ps,148 ps,34 ps)
+
+
+WARNING: at 454001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:454001097 ps, CLK:454001131 ps,148 ps,34 ps)
+
+
+WARNING: at 454001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:454001097 ps, CLK:454001131 ps,148 ps,34 ps)
+
+
+WARNING: at 454001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:454001097 ps, CLK:454001131 ps,148 ps,34 ps)
+
+
+WARNING: at 454001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_4 /  $setuphold<setup>( CE:454001097 ps, CLK:454001131 ps,148 ps,34 ps)
+
+
+WARNING: at 458001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:458001097 ps, CLK:458001131 ps,148 ps,34 ps)
+
+
+WARNING: at 462001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:462001097 ps, CLK:462001131 ps,148 ps,34 ps)
+
+
+WARNING: at 462001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:462001097 ps, CLK:462001131 ps,148 ps,34 ps)
+
+
+WARNING: at 466001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:466001097 ps, CLK:466001131 ps,148 ps,34 ps)
+
+
+WARNING: at 470001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:470001097 ps, CLK:470001131 ps,148 ps,34 ps)
+
+
+WARNING: at 470001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:470001097 ps, CLK:470001131 ps,148 ps,34 ps)
+
+
+WARNING: at 470001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:470001097 ps, CLK:470001131 ps,148 ps,34 ps)
+
+
+WARNING: at 474001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:474001097 ps, CLK:474001131 ps,148 ps,34 ps)
+
+
+WARNING: at 478001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:478001097 ps, CLK:478001131 ps,148 ps,34 ps)
+
+
+WARNING: at 478001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:478001097 ps, CLK:478001131 ps,148 ps,34 ps)
+
+
+WARNING: at 482001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:482001097 ps, CLK:482001131 ps,148 ps,34 ps)
+
+
+WARNING: at 486001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_3 /  $setuphold<setup>( CE:486001097 ps, CLK:486001131 ps,148 ps,34 ps)
+
+
+WARNING: at 486001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_2 /  $setuphold<setup>( CE:486001097 ps, CLK:486001131 ps,148 ps,34 ps)
+
+
+WARNING: at 486001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_1 /  $setuphold<setup>( CE:486001097 ps, CLK:486001131 ps,148 ps,34 ps)
+
+
+WARNING: at 486001131 ps: Timing violation in /transmit_sim/uut/\counter_inst/clicks_count_0 /  $setuphold<setup>( CE:486001097 ps, CLK:486001131 ps,148 ps,34 ps)
+
+
+Stopped at time : 6414918 ns : File "/homes/mmahmood/Aaron/transmit_sim.v" Line 70
+# exit 0

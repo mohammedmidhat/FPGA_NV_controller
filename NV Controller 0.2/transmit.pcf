@@ -1,0 +1,15 @@
+//! **************************************************************************
+// Written by: Map P.68d on Tue Mar 28 12:42:55 2017
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "status<0>" LOCATE = SITE "AM39" LEVEL 1;
+COMP "status<1>" LOCATE = SITE "AN39" LEVEL 1;
+COMP "clkn" LOCATE = SITE "E18" LEVEL 1;
+COMP "clkp" LOCATE = SITE "E19" LEVEL 1;
+COMP "start" LOCATE = SITE "AU38" LEVEL 1;
+COMP "data_out" LOCATE = SITE "AN31" LEVEL 1;
+COMP "reset" LOCATE = SITE "AW40" LEVEL 1;
+COMP "clicks" LOCATE = SITE "AJ32" LEVEL 1;
+SCHEMATIC END;
+

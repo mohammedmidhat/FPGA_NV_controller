@@ -1,0 +1,7 @@
+verilog work "timer.v"
+verilog work "Serializer.v"
+verilog work "counter.v"
+verilog work "clk_div_gen.v"
+verilog work "transmit.v"
+verilog work "transmit_sim.v"
+verilog work "/fs/cad3/xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v"
